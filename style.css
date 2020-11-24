@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background-color: aqua;
+    box-sizing: border-box;
+
+}
+
+.character {
+    width: 20rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
